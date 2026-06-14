@@ -1,2 +1,22 @@
 # Food-Waste-Management-
-👉 A data-driven Food Waste Management project that focuses on analyzing food wastage patterns and providing insights to optimize distribution and reduce waste using data analytics and visualization.
+👉 Food Waste Management System
+
+Project Overview
+
+This project analyzes food waste data using Python, Pandas, and Matplotlib. The objective is to identify food waste patterns and visualize waste quantities for better decision-making.
+
+Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+
+Features
+
+- Food waste analysis
+- Data visualization
+- Waste quantity reporting
+
+Output
+
+"Food Waste Analysis" (food_waste_chart.png)
